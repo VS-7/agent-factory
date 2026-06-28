@@ -8,9 +8,6 @@ Em vez de você escrever à mão todos os arquivos de configuração de agentes,
 o domínio** e a fábrica gera a estrutura completa: orquestradora, especialistas, leis,
 contratos, memória e o hook de arranque.
 
-> Generaliza o "ferramental Luara/Horizon": a mesma arquitetura que servia a um tema
-> Shopify passa a servir a qualquer software ou assunto — só muda o *spec*.
-
 ---
 
 ## O que é
